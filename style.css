@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+}
+
+#resume{
+    color: white;
+    
+    
+}
+#image{
+    border: 2px solid white;
+    margin-left: 25%;
+}
+.heading{
+    text-align: center;
+    font-family: 'Borel', cursive;
+    color: black;
+}
